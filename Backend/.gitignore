@@ -10,6 +10,7 @@ pip-selfcheck.json
 
 #IDE files
 .vscode/
+__pycache__/
 .idea/
 *.iml
 *.pyc
@@ -19,6 +20,7 @@ pip-selfcheck.json
 
 #Databases
 friends.db
+instance/
 
 #Compiled Python files
 *.pyc
